@@ -1,0 +1,70 @@
+
+.posts-container{
+    background-image: url("https://wallpaperset.com/w/full/a/9/2/354113.jpg");
+    position: relative;
+    overflow: hidden;
+    margin: 5%;
+  }
+  
+
+  iframe{
+    position: relative;
+    top: 0;
+    left: 25%;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    border: none;
+    overflow-x:hidden;
+    overflow-Y:hidden;
+  
+  }
+
+  .ellysocial{
+    justify-content:space-between;
+    display:flex;
+    margin-right:25%;
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-decoration: none;
+    color:white;
+    
+  }
+.sicons{
+    margin-right: 1em;
+    color:white;
+    transition-duration: 0.4s;
+
+}
+h5{
+    margin-left: 20px;
+    font-size:20px;
+    color:white;
+
+}
+
+.sicons:hover{
+    color: rgb(0, 238, 255);
+}
+
+.buttt{
+  color: white;
+  background:none;
+  font-size: 20px;
+  padding: 10px 25px;
+  border: 1px solid;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  position: relative;
+  left:50%;
+}
+.buttt:hover{
+  color:black;
+  background-color:rgb(0, 247, 255);
+  cursor:pointer;
+}
+
+#big-wrapper{
+  background-color: deepskyblue;
+}
